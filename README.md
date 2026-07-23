@@ -1,102 +1,156 @@
-# Premium-SEO-Article-Master-Framework
-A free professional SEO article prompt framework designed specifically for Claude AI.
-Important Usage Instructions
+# Social Media Sharing Guidelines
 
-Please read these instructions before using this prompt.
+## Purpose
 
-1. This Prompt Is Built Specifically for Claude
+This section explains how to responsibly share and promote the AiMoneyGuideCo SEO Article Master Framework across different platforms.
 
-This framework was designed and optimized specifically for Claude AI.
+The goal is to help users discover, learn from, and use this free framework while maintaining professional communication and respecting each platform's community rules.
 
-For the best results, use it directly with Claude.
+---
 
-Other AI models (ChatGPT, Gemini, DeepSeek, etc.) may still produce good articles, but the output structure, formatting, research behavior, and overall quality may differ because every AI model follows instructions differently.
+# LinkedIn Guidelines
 
-2. Replace the Placeholders
+LinkedIn is a professional platform focused on business, careers, technology, and industry discussions.
 
-Before generating an article, replace all placeholders such as:
+Recommended approach:
 
-- Article Title
-- Brand Name
-- Website Name
-- Author Name
-- Target Audience
-- Niche
-- SEO Focus
-- Any other placeholder included in the prompt
+- Share educational posts about SEO, AI writing, content strategy, and digital business.
+- Explain how the framework helps professionals improve their workflow.
+- Share insights, lessons, and practical examples instead of only posting a link.
+- Engage with comments and discussions professionally.
 
-Do not leave placeholders unchanged unless you intentionally want to edit them later.
+Avoid:
 
-3. Let Claude Finish Completely
+- Posting only promotional messages.
+- Spamming multiple groups or users.
+- Making unrealistic claims about AI or SEO results.
 
-Do not interrupt Claude while it is generating the article.
+Suggested post style:
 
-Allow it to complete the entire document, including:
+"Created a free SEO Article Master Framework designed specifically for Claude AI users who want to improve long-form content workflows."
 
-- The article
-- SEO Publishing Package
-- Editor Review Notes
-- Manual Completion Guide
-- Publishing Readiness Score
+---
 
-4. Every Topic Is Different
+# Facebook Guidelines
 
-This framework automatically adapts to different blog topics.
+Facebook works best when sharing valuable content with communities.
 
-Some articles may contain more sections, while others may contain fewer.
+Recommended approach:
 
-This is intentional and helps produce a more natural article instead of forcing the same structure every time.
+- Share the framework in relevant groups where AI, blogging, SEO, marketing, or entrepreneurship discussions happen.
+- Write a helpful introduction before sharing the link.
+- Answer questions from people who are interested.
+- Build relationships instead of only promoting.
 
-5. Always Review Before Publishing
+Avoid:
 
-Although this framework aims to generate publication-ready content, you should always review:
+- Mass posting the same message everywhere.
+- Joining groups only for promotion.
+- Misleading titles or claims.
 
-- Facts
-- Statistics
-- Laws
-- Pricing
-- External links
-- Internal links
-- Brand-specific information
+---
 
-Final editorial responsibility always belongs to the publisher.
+# Quora Guidelines
 
-6. Read the Editor Review Notes
+Quora focuses on answering questions and sharing expertise.
 
-Never ignore the Editor Review Notes.
+Recommended approach:
 
-They identify anything that still requires manual verification before publishing.
+- Answer questions related to:
+  - AI content creation
+  - SEO writing
+  - Blogging
+  - Digital marketing
+  - Productivity tools
 
-7. If the First Result Isn't Perfect
+- Provide a useful answer first.
+- Mention the framework naturally only when it genuinely helps the reader.
+- Add context about how it can be used.
 
-Don't start over immediately.
+Avoid:
 
-Instead, continue the same conversation with Claude and ask it to:
+- Posting only links without explanation.
+- Copy-pasting the same answer repeatedly.
+- Treating Quora as an advertising platform.
 
-- Expand a section
-- Improve readability
-- Add more examples
-- Increase SEO depth
-- Add additional research
-- Rewrite specific paragraphs
-- Improve human writing quality
+---
 
-Iterative refinement almost always produces better results than starting from scratch.
+# Pinterest Guidelines
 
-8. AI Cannot Verify Everything
+Pinterest is a visual discovery platform.
 
-Even with web research, some information may not be publicly available or verifiable.
+Recommended approach:
 
-In those situations, this framework instructs Claude to remain honest instead of inventing facts.
+- Create professional pins related to:
+  - AI writing workflows
+  - SEO tips
+  - Content creation strategies
+  - Blogging resources
 
-9. This Is an Advanced Framework
+- Use clear titles and descriptions.
+- Create original graphics.
+- Link pins back to the official GitHub repository or website.
 
-This prompt is designed for creating long-form, high-quality, SEO-focused articles.
+Recommended pin elements:
 
-It is not intended for short blog posts, quick answers, social media content, or simple writing tasks.
+- Strong headline
+- Clean design
+- Helpful description
+- Relevant keywords
 
-10. Final Responsibility
+Avoid:
 
-This framework is a professional writing assistant—not a replacement for human judgment.
+- Using misleading images.
+- Creating duplicate low-quality pins.
+- Keyword stuffing.
 
-Always perform a final review before publishing any article on your website.
+---
+
+# Reddit Guidelines
+
+Reddit communities value genuine participation and helpful discussions.
+
+Recommended approach:
+
+- Find relevant communities about:
+  - Artificial Intelligence
+  - SEO
+  - Blogging
+  - Content Marketing
+  - Entrepreneurship
+
+- Participate in discussions before sharing your resource.
+- Provide value through explanations and experiences.
+- Follow each community's specific rules.
+
+Avoid:
+
+- Direct promotional posts in communities that prohibit self-promotion.
+- Repeated link sharing.
+- Ignoring subreddit rules.
+
+---
+
+# General Sharing Rules
+
+When sharing this framework:
+
+- Always share the official repository link.
+- Keep the original creator attribution.
+- Do not claim ownership of the framework.
+- Do not sell the framework as a standalone product.
+- Respect each platform's community guidelines.
+- Focus on helping users rather than aggressive promotion.
+
+---
+
+# Feedback and Community Contribution
+
+Users are welcome to:
+
+- Suggest improvements.
+- Report issues.
+- Share ideas.
+- Provide feedback through GitHub Issues.
+
+Constructive feedback helps improve future versions of the framework.
